@@ -1,0 +1,20 @@
+{
+  "name": "oyjz/helper",
+  "description": "some helper funtions.",
+  "authors": [
+    {
+      "name": "Jin",
+      "email": "hi@oyjz.cn"
+    }
+  ],
+  "require": {
+    "php": ">=7.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "helper\\": "src"
+    }
+  },
+  "homepage": "https://www.oyjz.cn/",
+  "license": "MIT"
+}
