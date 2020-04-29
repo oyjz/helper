@@ -7,15 +7,15 @@
       "email": "hi@oyjz.cn"
     }
   ],
+  "minimum-stability": "dev",
   "require": {
     "php": ">=7.1"
   },
-  "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
       "helper\\": "src"
     }
   },
-  "homepage": "https://www.oyjz.cn/",
+  "homepage": "http://www.oyjz.cn/",
   "license": "MIT"
 }
